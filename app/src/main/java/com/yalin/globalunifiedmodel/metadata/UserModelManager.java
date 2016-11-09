@@ -1,7 +1,6 @@
 package com.yalin.globalunifiedmodel.metadata;
 
 import android.content.Context;
-import android.util.Log;
 
 import com.yalin.datacontroller.MaybeConsumer;
 import com.yalin.datacontroller.Success;
